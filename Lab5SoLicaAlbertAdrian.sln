@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab5SoLicaAlbertAdrian", "Lab5SoLicaAlbertAdrian\Lab5SoLicaAlbertAdrian.vcxproj", "{6B2B2CF9-7D23-49A5-84D6-B0AF85CAE792}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B2B2CF9-7D23-49A5-84D6-B0AF85CAE792}.Debug|x64.ActiveCfg = Debug|x64
+		{6B2B2CF9-7D23-49A5-84D6-B0AF85CAE792}.Debug|x64.Build.0 = Debug|x64
+		{6B2B2CF9-7D23-49A5-84D6-B0AF85CAE792}.Debug|x86.ActiveCfg = Debug|Win32
+		{6B2B2CF9-7D23-49A5-84D6-B0AF85CAE792}.Debug|x86.Build.0 = Debug|Win32
+		{6B2B2CF9-7D23-49A5-84D6-B0AF85CAE792}.Release|x64.ActiveCfg = Release|x64
+		{6B2B2CF9-7D23-49A5-84D6-B0AF85CAE792}.Release|x64.Build.0 = Release|x64
+		{6B2B2CF9-7D23-49A5-84D6-B0AF85CAE792}.Release|x86.ActiveCfg = Release|Win32
+		{6B2B2CF9-7D23-49A5-84D6-B0AF85CAE792}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A186E1BC-2D3B-42D0-B6C0-2B11CD85748F}
+	EndGlobalSection
+EndGlobal
